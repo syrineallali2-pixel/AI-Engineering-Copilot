@@ -1,0 +1,9 @@
+langchain
+langchain-google-genai
+google-generativeai
+streamlit
+langchain-tavily
+pydantic
+python-dotenv
+langchain-mcp-adapters
+langchain-community   
